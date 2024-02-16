@@ -28,7 +28,7 @@ The model is trained using cross-entropy loss and gradient clipping to prevent e
 
 The web application provides an interface where users can input a text prompt, and the model generates a continuation of the text. For example, given the prompt "Harry Potter is", the model might generate "a wizard in the world of Hogwarts."
 
-![Web Application Interface](app.png)
+![Web Application Interface](app2.png)
 
 ### Running the Application Locally
 
